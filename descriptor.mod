@@ -78,6 +78,11 @@ tags={
 	"Gameplay"
 	"National Focuses"
 }
+<<<<<<< HEAD
 supported_version="1.13.*"
 path="C:/Users/mario/OneDrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/kx"
+=======
+supported_version="1.14.*"
+path="C:/Users/User/Desktop/Documents/Paradox Interactive/Hearts of Iron IV/mod/kx"
+>>>>>>> upstream/master
 remote_file_id="2206134307"
