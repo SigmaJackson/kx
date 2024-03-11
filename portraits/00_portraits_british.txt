@@ -17,7 +17,6 @@ AST = {
 			"GFX_Portrait_Britain_Generic_land_11"
 			"GFX_Portrait_Britain_Generic_land_12"
 			"GFX_Portrait_Britain_Generic_land_13"
-			"GFX_Portrait_Britain_Generic_land_14"
 		}
 	}
 
@@ -45,7 +44,6 @@ CAN = {
 			"GFX_Portrait_Britain_Generic_land_11"
 			"GFX_Portrait_Britain_Generic_land_12"
 			"GFX_Portrait_Britain_Generic_land_13"
-			"GFX_Portrait_Britain_Generic_land_14"
 		}
 	}
 
@@ -73,7 +71,6 @@ NFL = {
 			"GFX_Portrait_Britain_Generic_land_11"
 			"GFX_Portrait_Britain_Generic_land_12"
 			"GFX_Portrait_Britain_Generic_land_13"
-			"GFX_Portrait_Britain_Generic_land_14"
 		}
 	}
 
@@ -101,7 +98,6 @@ ENG = {
 			"GFX_Portrait_Britain_Generic_land_11"
 			"GFX_Portrait_Britain_Generic_land_12"
 			"GFX_Portrait_Britain_Generic_land_13"
-			"GFX_Portrait_Britain_Generic_land_14"
 		}
 	}
 
@@ -129,7 +125,6 @@ GBP = {
 			"GFX_Portrait_Britain_Generic_land_11"
 			"GFX_Portrait_Britain_Generic_land_12"
 			"GFX_Portrait_Britain_Generic_land_13"
-			"GFX_Portrait_Britain_Generic_land_14"
 		}
 	}
 
@@ -157,7 +152,6 @@ GBR = {
 			"GFX_Portrait_Britain_Generic_land_11"
 			"GFX_Portrait_Britain_Generic_land_12"
 			"GFX_Portrait_Britain_Generic_land_13"
-			"GFX_Portrait_Britain_Generic_land_14"
 		}
 	}
 
@@ -186,7 +180,6 @@ NZL = {
 			"GFX_Portrait_Britain_Generic_land_11"
 			"GFX_Portrait_Britain_Generic_land_12"
 			"GFX_Portrait_Britain_Generic_land_13"
-			"GFX_Portrait_Britain_Generic_land_14"
 		}
 	}
 
@@ -214,7 +207,6 @@ SAF = {
 			"GFX_Portrait_Britain_Generic_land_11"
 			"GFX_Portrait_Britain_Generic_land_12"
 			"GFX_Portrait_Britain_Generic_land_13"
-			"GFX_Portrait_Britain_Generic_land_14"
 		}
 	}
 
@@ -315,7 +307,6 @@ SCT = {
 			"GFX_Portrait_Britain_Generic_land_11"
 			"GFX_Portrait_Britain_Generic_land_12"
 			"GFX_Portrait_Britain_Generic_land_13"
-			"GFX_Portrait_Britain_Generic_land_14"
 		}
 	}
 
@@ -343,7 +334,6 @@ WAL = {
 			"GFX_Portrait_Britain_Generic_land_11"
 			"GFX_Portrait_Britain_Generic_land_12"
 			"GFX_Portrait_Britain_Generic_land_13"
-			"GFX_Portrait_Britain_Generic_land_14"
 		}
 	}
 
