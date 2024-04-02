@@ -142,7 +142,7 @@ focus_tree = {
 			}
 			custom_effect_tooltip = irregular_infantry_tech_effect
 			hidden_effect = {
-				set_technology = { tech_irregulars = 1 popup = yes }
+				set_technology = { irregular_infantry_tech = 1 popup = yes }
 			}
 			119 = {
 				create_unit = {
@@ -184,7 +184,7 @@ focus_tree = {
 
 	focus = {
 		id = ULS_fight_fire_with_fire
-		icon = GFX_goal_MNT_anti_terrorist
+		icon = GFX_goal_ULS_Burn_the_Shamrock
 		cost = 1
 
 		relative_position_id = ULS_for_god_and_ulster
@@ -284,12 +284,9 @@ focus_tree = {
 		completion_reward = {
 			log = "[GetDateText]: [Root.GetName]: Focus ULS_the_provisional_government"
 			add_political_power = 100
-			set_temp_variable = { coalition_partner_var = token:social_liberal }
-			add_to_coalition = yes
-			set_temp_variable = { coalition_partner_var = token:social_conservative }
-			add_to_coalition = yes
-			set_temp_variable = { coalition_partner_var = token:paternal_autocrat }
-			add_to_coalition = yes
+			add_soclib_to_coalition = yes
+			add_soccon_to_coalition = yes
+			add_pataut_to_coalition = yes
 			set_variable = { ULS.coalition_stability = 0.5 }
 		}
 		search_filters = { FOCUS_FILTER_INTERNAL_AFFAIRS FOCUS_FILTER_POLITICAL }
@@ -297,7 +294,7 @@ focus_tree = {
 
 	focus = {
 		id = ULS_fighting_the_catholic_fifth_column
-		icon = GFX_goal_MEX_destroy_catholic
+		icon = GFX_goal_ULS_Smash_the_Heretics
 		cost = 5
 
 		relative_position_id = ULS_the_provisional_government
@@ -665,8 +662,7 @@ focus_tree = {
 				popularity = 0.15
 			}
 			hidden_effect = {
-				set_temp_variable = { coalition_partner_var = token:authoritarian_democrat }
-				add_to_coalition = yes
+				add_authdem_to_coalition = yes
 				set_variable = { ULS.coalition_stability = 0.5 }
 			}
 		}
@@ -777,7 +773,7 @@ focus_tree = {
 
 	focus = {
 		id = ULS_establishing_the_northern_ireland_office
-		icon = GFX_TRM_Minorities_Government
+		icon = GFX_NIR_agreement
 		cost = 8
 
 		relative_position_id = ULS_the_provisional_government
@@ -840,7 +836,7 @@ focus_tree = {
 
 	focus = {
 		id = ULS_an_integral_union
-		icon = GFX_goal_CAN_our_british_roots
+		icon = GFX_IRE_abolish_ulster_privileges
 		cost = 8
 
 		relative_position_id = ULS_the_provisional_government
@@ -918,7 +914,7 @@ focus_tree = {
 
 	focus = {
 		id = ULS_bring_up_the_rifles
-		icon = GFX_BRY_Every_Hand_A_Rifle
+		icon = GFX_goal_ULS_Squirell_Gun
 		cost = 5
 
 		relative_position_id = ULS_royal_ulster_army
@@ -973,7 +969,7 @@ focus_tree = {
 
 	focus = {
 		id = ULS_catholic_exclusion
-		icon = GFX_goal_NYC_Remove_Catholic_NYPD
+		icon = GFX_goal_ULS_Harrying_of_Drumcree
 		cost = 5
 
 		relative_position_id = ULS_royal_ulster_army
@@ -1011,7 +1007,7 @@ focus_tree = {
 
 	focus = {
 		id = ULS_modernise_the_horse
-		icon = GFX_goal_bicycle_infantry
+		icon = GFX_goal_ULS_Return_of_Orange
 		cost = 5
 
 		relative_position_id = ULS_royal_ulster_army
@@ -1054,7 +1050,7 @@ focus_tree = {
 
 	focus = {
 		id = ULS_volunteer_backbone
-		icon = GFX_goal_IRE_crush_terrorists
+		icon = GFX_goal_ULS_Reactivate_the_Force
 		cost = 5
 
 		relative_position_id = ULS_royal_ulster_army
