@@ -2278,7 +2278,7 @@ ideas = {
 			picture = CAN_militarism_idea
 			modifier = {
 				conscription = 0.02
-				conscription_factor = 0.06
+				conscription_factor = 0.50
 				army_org_factor = 0.10
 			}
 		}
