@@ -3327,7 +3327,8 @@ country_event = { id = mittel.112 days = 1 }
 				id = mafrfg.8
 				days = 5
 			}
-		    }
-	   }
-    }
-}
+		}
+	}
+
+#End of focuses 
+ }
