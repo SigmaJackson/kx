@@ -3359,6 +3359,7 @@ focus_tree = {
 			id = constate.1107
 			days = 2
 			}
+			custom_effect_tooltip = unlock_focuses
 			hidden_effect = {
 				country_event = { id = constate.1109 days = 100 }
 				country_event = { id = constate.1110 days = 246 }
