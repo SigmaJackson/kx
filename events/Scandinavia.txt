@@ -269,6 +269,7 @@ country_event = { # Norwegian Federation is Accepted
 					elections_allowed = no
 				}
 			}
+			SCA = { 
 			every_country = { #Transfer puppets
 				limit = {
 					OR = {
@@ -278,8 +279,9 @@ country_event = { # Norwegian Federation is Accepted
 					}
 				}
 				set_temp_variable = { target = THIS }
-				SCA = { puppet_country_without_changing_government = yes }
+				puppet_country_without_changing_government = yes
 			}
+		    }
 		}
 		if = {
 			limit = { is_faction_leader = yes }
