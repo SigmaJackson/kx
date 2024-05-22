@@ -6853,6 +6853,22 @@ country_event = {
 					}
 					has_game_rule = {
 						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_TOTALIST
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SYNDIE
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_RADSOC
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SOCDEM
+					}
+					has_game_rule = {
+						rule = IRE_future
 						option = IRE_FUTURE_PATAUT
 					}
 					has_game_rule = {
@@ -6949,6 +6965,22 @@ country_event = {
 					has_game_rule = {
 						rule = IRE_future
 						option = IRE_FUTURE_SYNDIE
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_TOTALIST
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SYNDIE
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_RADSOC
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SOCDEM
 					}
 					has_game_rule = {
 						rule = IRE_future
@@ -7054,6 +7086,22 @@ country_event = {
 					}
 					has_game_rule = {
 						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_TOTALIST
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SYNDIE
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_RADSOC
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SOCDEM
+					}
+					has_game_rule = {
+						rule = IRE_future
 						option = IRE_FUTURE_PATAUT
 					}
 					has_game_rule = {
@@ -7144,6 +7192,22 @@ country_event = {
 					has_game_rule = {
 						rule = IRE_future
 						option = IRE_FUTURE_SYNDIE
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_TOTALIST
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SYNDIE
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_RADSOC
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SOCDEM
 					}
 					has_game_rule = {
 						rule = IRE_future
@@ -7282,6 +7346,22 @@ country_event = {
 					}
 					has_game_rule = {
 						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_TOTALIST
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SYNDIE
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_RADSOC
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SOCDEM
+					}
+					has_game_rule = {
+						rule = IRE_future
 						option = IRE_FUTURE_PATAUT
 					}
 					has_game_rule = {
@@ -7371,9 +7451,27 @@ country_event = {
 			factor = 40
 			modifier = {
 				factor = 0
-				has_game_rule = {
-					rule = IRE_future
-					option = IRE_FUTURE_SYNDIE
+				OR = {
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_TOTALIST
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SYNDIE
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_RADSOC
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SOCDEM
+					}
 				}
 			}
 		}
@@ -7433,9 +7531,27 @@ country_event = {
 			factor = 40
 			modifier = {
 				factor = 0
-				has_game_rule = {
-					rule = IRE_future
-					option = IRE_FUTURE_SYNDIE
+				OR = {
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_TOTALIST
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SYNDIE
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_RADSOC
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SOCDEM
+					}
 				}
 			}
 		}
@@ -7656,6 +7772,22 @@ country_event = {
 						rule = IRE_future
 						option = IRE_FUTURE_SYNDIE
 					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_TOTALIST
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SYNDIE
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_RADSOC
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SOCDEM
+					}
 				}
 			}
 		}
@@ -7722,6 +7854,22 @@ country_event = {
 					has_game_rule = {
 						rule = IRE_future
 						option = IRE_FUTURE_SYNDIE
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_TOTALIST
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SYNDIE
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_RADSOC
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SOCDEM
 					}
 					has_game_rule = {
 						rule = IRE_future
@@ -11386,6 +11534,23 @@ country_event = {
 		name = ire.219.a
 		ai_chance = {
 			factor = 25
+			modifier = {
+				factor = 0
+				OR = {
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SYNDIE
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_RADSOC
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SOCDEM
+					}
+				}
+			}
 		}
 		set_country_flag = IRE_acs_economy_rwg
 		modify_country_flag = {
@@ -11409,6 +11574,23 @@ country_event = {
 		name = ire.219.b
 		ai_chance = {
 			factor = 25
+			modifier = {
+				factor = 0
+				OR = {
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_TOTALIST
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_RADSOC
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SOCDEM
+					}
+				}
+			}
 		}
 		set_country_flag = IRE_acs_economy_iwl
 		modify_country_flag = {
@@ -11432,6 +11614,23 @@ country_event = {
 		name = ire.219.c
 		ai_chance = {
 			factor = 25
+			modifier = {
+				factor = 0
+				OR = {
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_TOTALIST
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SYNDIE
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SOCDEM
+					}
+				}
+			}
 		}
 		set_country_flag = IRE_acs_economy_se
 		modify_country_flag = {
@@ -11462,6 +11661,23 @@ country_event = {
 		name = ire.219.e
 		ai_chance = {
 			factor = 25
+			modifier = {
+				factor = 0
+				OR = {
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_TOTALIST
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SYNDIE
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_RADSOC
+					}
+				}
+			}
 		}
 		set_country_flag = IRE_acs_economy_labour
 		modify_country_flag = {
@@ -11504,6 +11720,23 @@ country_event = {
 		name = ire.220.a
 		ai_chance = {
 			factor = 25
+			modifier = {
+				factor = 0
+				OR = {
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SYNDIE
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_RADSOC
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SOCDEM
+					}
+				}
+			}
 		}
 		set_country_flag = IRE_acs_language_rwg
 		modify_country_flag = {
@@ -11521,6 +11754,23 @@ country_event = {
 		name = ire.220.b
 		ai_chance = {
 			factor = 25
+			modifier = {
+				factor = 0
+				OR = {
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_TOTALIST
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_RADSOC
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SOCDEM
+					}
+				}
+			}
 		}
 		set_country_flag = IRE_acs_language_iwl
 		modify_country_flag = {
@@ -11537,6 +11787,23 @@ country_event = {
 		name = ire.220.c
 		ai_chance = {
 			factor = 25
+			modifier = {
+				factor = 0
+				OR = {
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_TOTALIST
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SYNDIE
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SOCDEM
+					}
+				}
+			}
 		}
 		set_country_flag = IRE_acs_language_se
 		modify_country_flag = {
@@ -11555,6 +11822,23 @@ country_event = {
 		name = ire.220.e
 		ai_chance = {
 			factor = 25
+			modifier = {
+				factor = 0
+				OR = {
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_TOTALIST
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SYNDIE
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_RADSOC
+					}
+				}
+			}
 		}
 		set_country_flag = IRE_acs_language_labour
 		modify_country_flag = {
@@ -11591,6 +11875,23 @@ country_event = {
 		name = ire.221.a
 		ai_chance = {
 			factor = 25
+			modifier = {
+				factor = 0
+				OR = {
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SYNDIE
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_RADSOC
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SOCDEM
+					}
+				}
+			}
 		}
 		set_country_flag = IRE_acs_religion_rwg
 		modify_country_flag = {
@@ -11610,6 +11911,23 @@ country_event = {
 		name = ire.221.b
 		ai_chance = {
 			factor = 40
+			modifier = {
+				factor = 0
+				OR = {
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_TOTALIST
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_RADSOC
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SOCDEM
+					}
+				}
+			}
 		}
 		set_country_flag = IRE_acs_religion_iwl
 		modify_country_flag = {
@@ -11626,6 +11944,23 @@ country_event = {
 		name = ire.221.c
 		ai_chance = {
 			factor = 35
+			modifier = {
+				factor = 0
+				OR = {
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_TOTALIST
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SYNDIE
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SOCDEM
+					}
+				}
+			}
 		}
 		set_country_flag = IRE_acs_religion_se
 		modify_country_flag = {
@@ -11642,6 +11977,23 @@ country_event = {
 		name = ire.221.e
 		ai_chance = {
 			factor = 35
+			modifier = {
+				factor = 0
+				OR = {
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_TOTALIST
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SYNDIE
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_RADSOC
+					}
+				}
+			}
 		}
 		set_country_flag = IRE_acs_religion_labour
 		modify_country_flag = {
@@ -11676,6 +12028,23 @@ country_event = {
 		name = ire.222.a
 		ai_chance = {
 			factor = 40
+			modifier = {
+				factor = 0
+				OR = {
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SYNDIE
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_RADSOC
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SOCDEM
+					}
+				}
+			}
 		}
 		set_country_flag = IRE_acs_foreign_rwg
 		modify_country_flag = {
@@ -11697,6 +12066,23 @@ country_event = {
 		name = ire.222.b
 		ai_chance = {
 			factor = 25
+			modifier = {
+				factor = 0
+				OR = {
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_TOTALIST
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_RADSOC
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SOCDEM
+					}
+				}
+			}
 		}
 		set_country_flag = IRE_acs_foreign_iwl
 		modify_country_flag = {
@@ -11718,6 +12104,23 @@ country_event = {
 		name = ire.222.c
 		ai_chance = {
 			factor = 35
+			modifier = {
+				factor = 0
+				OR = {
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_TOTALIST
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SYNDIE
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SOCDEM
+					}
+				}
+			}
 		}
 		set_country_flag = IRE_acs_foreign_se
 		modify_country_flag = {
@@ -11746,6 +12149,23 @@ country_event = {
 		name = ire.222.e
 		ai_chance = {
 			factor = 35
+			modifier = {
+				factor = 0
+				OR = {
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_TOTALIST
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SYNDIE
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_RADSOC
+					}
+				}
+			}
 		}
 		set_country_flag = IRE_acs_foreign_labour
 		modify_country_flag = {
@@ -11792,6 +12212,23 @@ country_event = {
 		name = ire.223.a
 		ai_chance = {
 			factor = 30
+			modifier = {
+				factor = 0
+				OR = {
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SYNDIE
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_RADSOC
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SOCDEM
+					}
+				}
+			}
 		}
 		set_country_flag = IRE_acs_military_rwg
 		modify_country_flag = {
@@ -11805,6 +12242,7 @@ country_event = {
 			category = dd_tech
 			category = cl_tech
 		}
+		navy_experience = 2
 		add_popularity = {
 			ideology = totalist
 			popularity = 0.05
@@ -11814,6 +12252,23 @@ country_event = {
 		name = ire.223.b
 		ai_chance = {
 			factor = 40
+			modifier = {
+				factor = 0
+				OR = {
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_TOTALIST
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_RADSOC
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SOCDEM
+					}
+				}
+			}
 		}
 		set_country_flag = IRE_acs_military_iwl
 		modify_country_flag = {
@@ -11826,6 +12281,7 @@ country_event = {
 			uses = 1
 			category = infantry_weapons
 		}
+		army_experience = 25
 		add_popularity = {
 			ideology = syndicalist
 			popularity = 0.05
@@ -11835,6 +12291,23 @@ country_event = {
 		name = ire.223.c
 		ai_chance = {
 			factor = 30
+			modifier = {
+				factor = 0
+				OR = {
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_TOTALIST
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SYNDIE
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SOCDEM
+					}
+				}
+			}
 		}
 		set_country_flag = IRE_acs_military_se
 		modify_country_flag = {
@@ -11847,40 +12320,42 @@ country_event = {
 			uses = 1
 			category = light_fighter
 		}
+		air_experience = 25
 		add_popularity = {
 			ideology = radical_socialist
 			popularity = 0.05
 		}
 	}
-	option = {
+	option = { #why was this the best of all 3 worlds?
 		name = ire.223.e
 		ai_chance = {
 			factor = 30
+			modifier = {
+				factor = 0
+				OR = {
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_TOTALIST
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_SYNDIE
+					}
+					has_game_rule = {
+						rule = IRE_future
+						option = IRE_FUTURE_SYNDIE_RADSOC
+					}
+				}
+			}
 		}
 		set_country_flag = IRE_acs_military_labour
 		modify_country_flag = {
 			flag = IRE_acs_labour
 			value = 1
 		}
-		add_tech_bonus = {
-			name = ire.223.t
-			bonus = 1
-			uses = 1
-			category = light_fighter
-		}
-		add_tech_bonus = {
-			name = ire.223.t
-			bonus = 1
-			uses = 1
-			category = dd_tech
-			category = cl_tech
-		}
-		add_tech_bonus = {
-			name = ire.223.t
-			bonus = 1
-			uses = 1
-			category = infantry_weapons
-		}
+		army_experience = 20
+		navy_experience = 20
+		air_experience = 20
 		add_popularity = {
 			ideology = social_democrat
 			popularity = 0.05
